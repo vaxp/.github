@@ -1,43 +1,64 @@
-# 🧠 mususho // Systems Architect & Algorithms Expert
+# 🧠 Dark Lunaris
 
-Welcome to my profile. I am a software and systems architect who believes that powerful software is built on a solid foundation of computer science and systems engineering. My work is focused on building high-performance tools and infrastructure, particularly for the Dart & Flutter ecosystem.
-
----
-
-### 👨‍💻 My Philosophy & Expertise
-
-I bridge the gap between theoretical depth and practical application. My expertise isn't just a list of technologies; it's an integrated philosophy for building software:
-
-* **Systems Architect:** Specializing in building and developing **Linux systems**, which gives me a deep understanding of performance and efficiency, right from the kernel level.
-* **Algorithmist:** Mastery and application of **600+ algorithms and data structures**, enabling me to select the most effective solution for any given problem.
-* **Polyglot Engineer:** I seamlessly navigate between high-performance systems languages like **C++** and **Rust**, and modern application languages like **Dart** and **PHP**.
-* **Library & Tool Creator:** I build production-grade tools and libraries for the developer community, with a focus on clean, extensible, and well-documented code.
-* **Flutter Expert:** I apply **Clean Architecture** and **SOLID principles** to architect robust and maintainable applications using the Flutter framework.
+> *Masters of Forbidden Knowledge* — An advanced organization reshaping the digital future through algorithmic supremacy, AI mastery, and high-performance software engineering.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🚀 Mission
 
-| Languages                                                                                                                              | Frameworks & Platforms                                                                                                                 | Architecture & Principles                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)                                 | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-white?style=for-the-badge)                                                   |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)                                         | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                       | ![SOLID](https://img.shields.io/badge/SOLID-white?style=for-the-badge)                                                                               |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)                                         |                                                                                                                                        | ![Algorithms](https://img.shields.io/badge/Algorithms_&_DS-white?style=for-the-badge)                                                              |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)                                             |                                                                                                                                        |                                                                                                                                                      |
+Empowering developers, researchers, and digital pioneers with a robust set of open-source libraries and frameworks across multiple languages and platforms, grounded in mathematical precision, algorithmic intelligence, and raw high-performance.
 
 ---
 
-### 🚀 Current Focus & Contributions
+## 🏴 Vision
 
-My current focus is on pushing the boundaries of what's possible within the Dart ecosystem:
-
-* 🌱 Expanding **[lunaris-engine](https://github.com/mususho/Lunaris-engine)**, the algorithms library I built to be the most powerful and comprehensive in the Dart ecosystem.
-* 💡 Strategically contributing to the **Dart language SDK itself**, with the goal of integrating core data structures and algorithms to improve the language for all developers.
-* 🏗️ Architecting complex applications with Flutter as a practical proof of the power and efficiency of the tools I develop.
+To make **Dark Lunaris** the most feared and respected name in algorithmic dominance, contributing to the world’s most advanced systems — from autonomous navigation and military-grade logic to creative design systems and next-gen application interfaces.
 
 ---
 
-### 🤝 Collaboration & Contact
+## 💥 Our Arsenal
 
-The best way to connect with me is through code. If you have an interesting idea or wish to contribute to one of my projects, feel free to open an `Issue` or a `Pull Request`.
+**Dark Lunaris** develops flexible, scalable, and efficient tools across multiple domains:
 
+* **Dart / Flutter Libraries**
+
+  * `lunaris_engine`: 300+ advanced and structured algorithms.
+  * `LunarisEye`: The Ultimate Network & Web Reconnaissance CLI.
+  * `blade of the abyss`: Complex electronic propulsion engine based on the lunaris_engine consisting of 45 chambers.
+  * `lunaris_ui`: Innovative and attractive UI components.
+  * `lunaris_drawer`: Animated side menus with unique layouts.
+  * `lunaris_animations`: Smooth animation tools for enhanced UX.
+  * `lunaris_logos`: Elegant and minimalist logos for Flutter apps.
+
+* **Cross-language Projects (Coming Soon)**
+
+  * High-performance Rust libraries with FFI interfaces
+  * C++ algorithm engines for real-time systems
+  * AI modules in Python & Rust
+
+---
+
+## 🧬 Philosophy
+
+We believe in:
+
+* Open knowledge, not open imitation.
+* Innovation through logic, not fashion.
+* Algorithmic excellence as a weapon for progress.
+
+> "We don’t write code — we forge digital weapons."
+
+---
+
+## 📡 Contact & Collaboration
+
+For collaboration, contribution, or support:
+
+* GitHub: [github.com/DarkLunaris](https://github.com/DarkLunaris)
+* Email: [contact@darklunaris.org](mailto:contact@darklunaris.org)
+
+---
+
+## ⚠️ Note
+
+## **Dark Lunaris** is in its early development stage. Massive libraries and frameworks are under construction. Follow us to stay ahead in the digital arms race.
