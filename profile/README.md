@@ -1,4 +1,4 @@
-# 🧠 Dark Lunaris
+# 🧠 VAXP
 
 > *Masters of Forbidden Knowledge* — An advanced organization reshaping the digital future through algorithmic supremacy, AI mastery, and high-performance software engineering.
 
