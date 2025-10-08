@@ -21,7 +21,7 @@ To make **VAXP** the most feared and respected name in algorithmic dominance, co
 **Dark Lunaris** develops flexible, scalable, and efficient tools across multiple domains:
 
 * **Dart / Flutter Libraries**
-  * `vaxp-os`: A fully custom operating system whose main strengths are its high performance and ease of use, which is even easier than Windows.
+  * `vaxp-os`: A fully custom operating system for Linux whose main strengths are its high performance and ease of use, which is even easier than Windows.
   * `vaxp-sam`: Graphical control manager tool that saves you 96% of the time using the terminal.
   * `vaxp-deb`: A tool to convert Flutter applications to deb format with the click of a button and everything is fully automatic.
   * `vaxp_engine`: 300+ advanced and structured algorithms.
