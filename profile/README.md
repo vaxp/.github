@@ -12,7 +12,7 @@ Empowering developers, researchers, and digital pioneers with a robust set of op
 
 ## 🏴 Vision
 
-To make **Dark Lunaris** the most feared and respected name in algorithmic dominance, contributing to the world’s most advanced systems — from autonomous navigation and military-grade logic to creative design systems and next-gen application interfaces.
+To make **VAXP** the most feared and respected name in algorithmic dominance, contributing to the world’s most advanced systems — from autonomous navigation and military-grade logic to creative design systems and next-gen application interfaces.
 
 ---
 
@@ -21,14 +21,16 @@ To make **Dark Lunaris** the most feared and respected name in algorithmic domin
 **Dark Lunaris** develops flexible, scalable, and efficient tools across multiple domains:
 
 * **Dart / Flutter Libraries**
-
-  * `lunaris_engine`: 300+ advanced and structured algorithms.
-  * `LunarisEye`: The Ultimate Network & Web Reconnaissance CLI.
+  * `vaxp-os`: A fully custom operating system whose main strengths are its high performance and ease of use, which is even easier than Windows.
+  * `vaxp-sam`: Graphical control manager tool that saves you 96% of the time using the terminal.
+  * `vaxp-deb`: A tool to convert Flutter applications to deb format with the click of a button and everything is fully automatic.
+  * `vaxp_engine`: 300+ advanced and structured algorithms.
+  * `VaxpEye`: The Ultimate Network & Web Reconnaissance CLI.
   * `blade of the abyss`: Complex electronic propulsion engine based on the lunaris_engine consisting of 45 chambers.
-  * `lunaris_ui`: Innovative and attractive UI components.
-  * `lunaris_drawer`: Animated side menus with unique layouts.
-  * `lunaris_animations`: Smooth animation tools for enhanced UX.
-  * `lunaris_logos`: Elegant and minimalist logos for Flutter apps.
+  * `vaxp_ui`: Innovative and attractive UI components.
+  * `vaxp_drawer`: Animated side menus with unique layouts.
+  * `vaxp_animations`: Smooth animation tools for enhanced UX.
+  * `vaxp_logos`: Elegant and minimalist logos for Flutter apps.
 
 * **Cross-language Projects (Coming Soon)**
 
@@ -61,4 +63,4 @@ For collaboration, contribution, or support:
 
 ## ⚠️ Note
 
-## **Dark Lunaris** is in its early development stage. Massive libraries and frameworks are under construction. Follow us to stay ahead in the digital arms race.
+## **VAXP** is in its early development stage. Massive libraries and frameworks are under construction. Follow us to stay ahead in the digital arms race.
