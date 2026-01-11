@@ -4,22 +4,7 @@
 > 
 
 ---
-## 📚 Citation
 
-If you use concepts from the Venom Architecture in your research or development, please cite the technical report:
-
-> **Jaafar, H. (2026).** *The Venom Architecture: A Unified Quantum-Neural Data Operating System*. VAXP Systems. https://doi.org/10.5281/zenodo.18216123
-
-**BibTeX:**
-```bibtex
-@techreport{venom2026,
-  title={The Venom Architecture: A Unified Quantum-Neural Data Operating System},
-  author={Jaafar, Hussein},
-  year={2026},
-  institution={VAXP Systems},
-  doi={10.5281/zenodo.18216123},
-  url={[https://doi.org/10.5281/zenodo.18216123](https://doi.org/10.5281/zenodo.18216123)}
-}
 
 ## 🚀 Mission
 
@@ -94,3 +79,19 @@ We believe that:
 Major frameworks, engines, and systems are being built.
 
 Follow our development to witness the next age of digital creation.
+## 📚 Citation
+
+If you use concepts from the Venom Architecture in your research or development, please cite the technical report:
+
+> **Jaafar, H. (2026).** *The Venom Architecture: A Unified Quantum-Neural Data Operating System*. VAXP Systems. https://doi.org/10.5281/zenodo.18216123
+
+**BibTeX:**
+```bibtex
+@techreport{venom2026,
+  title={The VAXP Architecture: A Unified Quantum-Neural Data Operating System},
+  author={Jaafar, Hussein},
+  year={2026},
+  institution={VAXP Systems},
+  doi={10.5281/zenodo.18216123},
+  url={[https://doi.org/10.5281/zenodo.18216123](https://doi.org/10.5281/zenodo.18216123)}
+}
