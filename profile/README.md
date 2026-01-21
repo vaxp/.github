@@ -86,12 +86,5 @@ If you use concepts from the Venom Architecture in your research or development,
 > **Hussein, J. (2026).** *The Venom Architecture: A Unified Quantum-Neural Data Operating System*. VAXP Systems. https://doi.org/10.5281/zenodo.18216123
 
 **BibTeX:**
-```bibtex
-@techreport{venom2026,
-  title={The VAXP Architecture: A Unified Quantum-Neural Data Operating System},
-  author={Hussein, Jaafar},
-  year={2026},
-  institution={VAXP Systems},
-  doi={10.5281/zenodo.18216123},
-  url={[https://doi.org/10.5281/zenodo.18216123](https://doi.org/10.5281/zenodo.18216123)}
-}
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18216123.svg)](https://doi.org/10.5281/zenodo.18216123)
+
