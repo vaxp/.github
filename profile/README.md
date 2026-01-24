@@ -1,9 +1,4 @@
-# 🧠 VAXP
 
-> Masters of Forbidden Knowledge — A sovereign organization engineering the future through algorithmic dominance, artificial intelligence, and next-generation software ecosystems.
-> 
-
----
 
 
 ## 🚀 Mission
