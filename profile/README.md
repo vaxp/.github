@@ -72,7 +72,6 @@ We believe that:
 
 Major frameworks, engines, and systems are being built.
 
-Follow our development to witness the next age of digital creation.
 ## 📚 Citation
 
 If you use concepts from the Venom Architecture in your research or development, please cite the technical report:
