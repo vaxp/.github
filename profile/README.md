@@ -55,7 +55,6 @@ We believe that:
 - Code should be **logical**, not trendy.
 - Algorithms are **weapons** in the evolution of intelligence.
 
-> "We don’t write software — we build synthetic intelligence."
 > 
 
 ---
